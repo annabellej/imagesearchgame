@@ -1,2 +1,3 @@
 # imagesearchgame
-Simple Bigfoot identification game, HTML, CSS, Javascript
+Extremely simple Bigfoot identification game.
+HTML, CSS, Javascript
